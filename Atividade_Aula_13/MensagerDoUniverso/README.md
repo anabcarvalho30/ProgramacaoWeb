@@ -1,1 +1,5 @@
-Aplicação com base em Node Js, Express e EJS que usa a API Ron Swanson Quotes para mostrar frases na tela. A aplicação foi feita para uma atividade da matéria Programação Web 1.
+# Atividade de acordo com os conteúdos da aula 13
+
+**Aluna**: Ana Beatriz Carvalho
+**Professor**: José Roberto
+
